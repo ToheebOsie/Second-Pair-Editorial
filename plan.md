@@ -4,7 +4,7 @@
 
 Add a dedicated App Router page at `/start/feedback-to-final-manuscript` using the existing Second Pair Editorial page shell, typography, palette, CTA conventions, and evidence-led voice. The page will explain the three-stage package—Calibrate, Interpret, Polish—alongside the cost-saving promise, payment milestones, eligibility/readiness gate, boundaries, pricing examples, and FAQ.
 
-Register the route in the sitemap and expose it through the existing conversion paths: the footer Start here group, the Start hub, and the Resources hub. Keep all CTAs pointed to the existing `/request-sample` route. Do not add payment processing, promises of guaranteed savings, or unsupported operational claims.
+Register the route in the sitemap and expose it through the existing conversion paths: the footer Start here group, the Start hub, the Resources hub, and a prominent homepage feature immediately below the hero. Add a secondary hero link so visitors can discover the package without weakening the primary manuscript-question CTA. Keep all primary enquiry CTAs pointed to the existing `/request-sample` route. Do not add payment processing, promises of guaranteed savings, or unsupported operational claims.
 
 ## Project structure
 
@@ -14,6 +14,8 @@ Register the route in the sitemap and expose it through the existing conversion 
 - `app/start/page.tsx`: start-hub package card.
 - `app/resources/page.tsx`: resources-hub package card.
 - `app/globals.css`: responsive package-page styles.
+- `app/page.tsx`: homepage package feature and discovery CTA.
+- `app/globals.css`: responsive homepage package feature styles.
 - `TODO.md`: implementation outcomes and acceptance clauses.
 
 ## Design direction

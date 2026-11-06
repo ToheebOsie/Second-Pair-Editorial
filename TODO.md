@@ -6,6 +6,10 @@ The site includes `/start/feedback-to-final-manuscript` using the existing Secon
 
 The package is linked from the footer Start here group, the Start hub, and the Resources hub. The route is registered in `app/sitemap.ts`, with page-level title, description, canonical URL, Open Graph and Twitter metadata through the existing SEO helper.
 
+## Delivered: homepage visibility
+
+The homepage now features the Feedback-to-Final Manuscript package immediately below the hero with the approved Calibrate → Interpret → Polish pathway, cost-reduction positioning, and a direct link to the package page. The hero also includes a secondary discovery link, while the existing primary manuscript-question CTA remains unchanged.
+
 The page states that the package is designed to reduce or avoid a separate full developmental edit when evidence supports that outcome, but does not guarantee that every author will avoid developmental work. It also explains that the manuscript may be paused or escalated when major structural questions remain unresolved.
 
 ## Delivered: private Phase 1 onboarding
