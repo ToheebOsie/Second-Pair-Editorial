@@ -12,6 +12,20 @@ The homepage now features the Feedback-to-Final Manuscript package immediately b
 
 The page states that the package is designed to reduce or avoid a separate full developmental edit when evidence supports that outcome, but does not guarantee that every author will avoid developmental work. It also explains that the manuscript may be paused or escalated when major structural questions remain unresolved.
 
+## Delivered: humanized package-page language
+
+The package copy was revised using the supplied editorial corpus for a more natural author-facing voice. Abstract phrases such as “modular pathway,” “evidence boundaries” and “readiness recommendation” were replaced with direct explanations of what is read, what the author receives, what the questions can show, and what to do next.
+
+## Delivered: second prose pass
+
+The page was reviewed again for repeated “not X, but Y,” “if X, then Y,” and similar binary contrast rhythms. Persuasive sections now use more varied sentences and direct explanations; conditional wording remains only where it is needed for accurate pricing, scope and readiness terms.
+
+## Delivered: hybrid modular pricing pathway
+
+The package page now presents Feedback-to-Final Manuscript as one pathway with optional stages rather than a compulsory bundle. Full-Manuscript Beta Calibration is the standalone paid entry stage at $12 per 1,000 words with a $750 minimum, paid 50% to begin and 50% before delivery. It includes a complete read, manuscript-specific beta-reader questions, evidence boundaries and a readiness recommendation.
+
+The page explains that feedback interpretation and line/copy editing are chosen only if needed, that the calibration fee is credited in full toward an agreed line-and-copy editing scope confirmed within 30 days, and that authors do not pay for sentence-level editing when revision or deeper developmental work comes first.
+
 ## Delivered: private Phase 1 onboarding
 
 Add the private route `/onboarding/feedback-to-final-manuscript`. It must remain out of the public navigation and use the existing site shell. The route must be noindex and require the manually issued `ONBOARDING_ACCESS_TOKEN` query token before showing the onboarding form.

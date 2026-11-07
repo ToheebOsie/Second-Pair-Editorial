@@ -457,6 +457,14 @@ summary span { color: var(--accent-dark); font: 400 20px var(--sans); }
 .package-method-grid { margin-top: 30px; }
 .package-method-grid + p { margin-top: 28px; }
 .package-note { margin-top: 26px; color: var(--muted); font-size: 14px; }
+.package-value-callout { margin-top: 34px; border-top: 3px solid var(--accent); }
+.package-value-callout h3, .package-price-card h3, .package-credit-callout h3 { margin: 10px 0 12px; font: 500 28px/1.2 var(--serif); }
+.package-pricing-options { margin-top: 30px; }
+.package-price-card { border-top: 3px solid var(--accent); }
+.package-price-large { margin: 24px 0 16px; color: var(--ink); font: 500 42px/1 var(--serif); }
+.package-price-large span { color: var(--muted); font: 12px var(--sans); }
+.package-price-card .package-note { font-size: 13px; }
+.package-credit-callout { margin-top: 26px; border-left: 3px solid var(--accent); }
 .package-dark { background: var(--navy); color: #faf9f6; }
 .package-dark .eyebrow { color: var(--accent); }
 .package-dark h2 { color: #faf9f6; }

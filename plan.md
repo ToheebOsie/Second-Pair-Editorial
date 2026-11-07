@@ -2,7 +2,7 @@
 
 ## Implementation approach
 
-Add a dedicated App Router page at `/start/feedback-to-final-manuscript` using the existing Second Pair Editorial page shell, typography, palette, CTA conventions, and evidence-led voice. The page will explain the three-stage package—Calibrate, Interpret, Polish—alongside the cost-saving promise, payment milestones, eligibility/readiness gate, boundaries, pricing examples, and FAQ.
+Add a dedicated App Router page at `/start/feedback-to-final-manuscript` using the existing Second Pair Editorial page shell, typography, palette, CTA conventions, and evidence-led voice. The page will explain one modular pathway—Calibrate, Interpret, Polish—with Full-Manuscript Beta Calibration as the standalone paid entry stage, the cost-saving rationale, readiness gate, optional later stages, calibration pricing, fee credit, boundaries, and FAQ.
 
 Register the route in the sitemap and expose it through the existing conversion paths: the footer Start here group, the Start hub, the Resources hub, and a prominent homepage feature immediately below the hero. Add a secondary hero link so visitors can discover the package without weakening the primary manuscript-question CTA. Keep all primary enquiry CTAs pointed to the existing `/request-sample` route. Do not add payment processing, promises of guaranteed savings, or unsupported operational claims.
 
