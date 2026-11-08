@@ -14,7 +14,7 @@ export const onboardingSteps = [
   {id: 'project', label: 'Project'},
   {id: 'effect', label: 'Intended effect'},
   {id: 'uncertainty', label: 'Current uncertainty'},
-  {id: 'evidence', label: 'Reader evidence'},
+  {id: 'evidence', label: 'Reader & critique'},
   {id: 'context', label: 'Manuscript context'},
   {id: 'editing', label: 'Editing expectations'},
   {id: 'consent', label: 'Consent and submission'},

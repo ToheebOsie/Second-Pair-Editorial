@@ -1,30 +1,14 @@
-# Why do my characters sound the same?
+# Different names do not make different voices
 
 **Second Pair Newsletter**  
 **Canonical problem:** `/problems/characters-sound-the-same`
 
-## The useful distinction
+If two characters sound alike, adding a catchphrase to one of them may only disguise the problem. Listen to what each person notices and how they respond.
 
-Distinct voices are not just different vocabularies. Two characters can use different slang and still seem interchangeable if they notice the same things, value the same things, make the same assumptions, and pursue the same conversational goals.
+Put both characters in the same situation. One might notice the danger. Another might see an opportunity. One talks around an uncomfortable subject; the other asks a blunt question. Those differences come from priorities and personality, not just vocabulary.
 
-## Try this on the manuscript
+Try removing dialogue tags from a short exchange. Can you tell who is speaking? Then put the tags back and compare how each person reacts when the conversation changes direction.
 
-Give two characters the same event and compare what each would notice first, what each would misread, what each would avoid saying, and what each would try to get from the other person.
+Also remember that people speak differently with a friend than with a stranger or someone they fear. A voice can shift with the situation and still belong to the same person.
 
-## What not to assume
-
-Do not begin with a list of verbal quirks. Speech usually becomes more distinctive when the underlying person becomes more distinctive.
-
-## What a professional read adds
-
-
-
-### A useful boundary
-
-This kind of self-check can tell you what to investigate. It cannot reproduce a sustained outside read, because the outside reader does not carry your private knowledge of the manuscript. That is where professional reader intelligence becomes useful: not as a louder opinion, but as a disciplined account of what the page made available to someone who did not write it.
-
-
-**Professional lens:** Character differentiation.  
-**Related craft focus:** Dialogue and character: worldview, motive, status, attention, subtext.
-
-**Next step:** If the manuscript still leaves the cause unclear after this test, that uncertainty is itself useful evidence for an outside diagnostic read.
+**More on this:** `/problems/characters-sound-the-same`

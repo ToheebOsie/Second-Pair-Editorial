@@ -1,30 +1,16 @@
-# Why does my opening feel slow?
+# Your opening feels slow. What is the reader waiting for?
 
 **Second Pair Newsletter**  
 **Canonical problem:** `/problems/opening-feels-slow`
 
-## The useful distinction
+An opening can begin with a dramatic moment and still feel slow a few pages later. The first scene catches the reader's attention, then the next few pages explain the family history, the town, the magic system or the reason everyone is worried.
 
-An opening can contain movement and still feel slow. The more useful question is what the reader has been invited to care about by the end of the first few pages, and whether the following pages sharpen that invitation.
+Before cutting, find the question the opening has given the reader. What do they want to know now? Does the next scene add pressure or move away from it?
 
-## Try this on the manuscript
+A quiet beginning can work. Readers do not need an explosion; they need something to follow. A character who is trying to avoid a conversation can be enough, provided the scene lets us see what is at stake for them.
 
-Write down the first concrete question you carried out of the opening. Then mark the next place where the manuscript gives that question more pressure, information, danger, desire, or consequence. If nothing develops it, you may have a handoff problem rather than a word-count problem.
+**Try this:** Read the first chapter and write down the first question you wanted answered. Mark the next point where the story makes that question matter more. If there is a long gap, look at what fills it. Is it building character and atmosphere, or delaying the reason to read on?
 
-## What not to assume
+Do not make the opening faster until you know what is making it feel slow.
 
-Do not cut the opening simply because a reader called it slow. First establish what they were waiting for. A quiet opening can work if the reader has a reason to keep looking forward.
-
-## What a professional read adds
-
-
-
-### A useful boundary
-
-This kind of self-check can tell you what to investigate. It cannot reproduce a sustained outside read, because the outside reader does not carry your private knowledge of the manuscript. That is where professional reader intelligence becomes useful: not as a louder opinion, but as a disciplined account of what the page made available to someone who did not write it.
-
-
-**Professional lens:** Opening attention.  
-**Related craft focus:** Opening: promise, curiosity, orientation, character desire, information timing.
-
-**Next step:** If the manuscript still leaves the cause unclear after this test, that uncertainty is itself useful evidence for an outside diagnostic read.
+**More on this:** `/problems/opening-feels-slow`

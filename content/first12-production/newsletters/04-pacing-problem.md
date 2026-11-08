@@ -1,30 +1,14 @@
-# Why does my story feel slow when nothing seems wrong?
+# A long scene is not automatically a slow scene
 
 **Second Pair Newsletter**  
 **Canonical problem:** `/problems/pacing-problem`
 
-## The useful distinction
+A conversation can take ten pages and still move the story forward. A one-page scene can feel endless if it repeats something the reader already knows.
 
-Pacing is not a stopwatch. It is the rate at which the reader receives meaningful change, pressure, discovery, anticipation, and consequence. A scene can be short and slow; a long scene can move quickly.
+When someone says the pacing is off, ask what stopped moving. Did the character's goal disappear? Did the scene repeat an earlier point? Did a major consequence arrive too quickly, while an ordinary moment received several pages?
 
-## Try this on the manuscript
+Try this with three consecutive scenes: write what changes between the beginning and end of each one. New information, a decision, a changed relationship or a consequence all count. If the same thing happens three times, you may have a repetition problem rather than a word-count problem.
 
-Choose the point where you felt the manuscript slow. List what changed immediately before and after it. Then ask whether the reader was waiting for something that arrived late, or whether several passages performed essentially the same function.
+Do not cut simply because a scene is long. Find the part that makes the reading drag, then decide whether it needs a cut, a stronger turn or a different place in the story.
 
-## What not to assume
-
-Do not start by cutting sentences. If the same narrative work is being repeated, cutting prose may leave the structural drag untouched.
-
-## What a professional read adds
-
-
-
-### A useful boundary
-
-This kind of self-check can tell you what to investigate. It cannot reproduce a sustained outside read, because the outside reader does not carry your private knowledge of the manuscript. That is where professional reader intelligence becomes useful: not as a louder opinion, but as a disciplined account of what the page made available to someone who did not write it.
-
-
-**Professional lens:** Pacing experience.  
-**Related craft focus:** Pacing: scene function, reaction, progression, compression, expectation.
-
-**Next step:** If the manuscript still leaves the cause unclear after this test, that uncertainty is itself useful evidence for an outside diagnostic read.
+**More on this:** `/problems/pacing-problem`

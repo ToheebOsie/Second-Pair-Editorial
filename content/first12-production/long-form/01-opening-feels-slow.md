@@ -2,38 +2,36 @@
 
 **Canonical problem:** `/problems/opening-feels-slow`
 
-There is a temptation to turn this problem into a rule. Resist it. The useful question is what the reader is experiencing and what evidence on the page could explain that experience.
+A lot of writers worry about the first chapter. Some have been told it takes too long to get going. Others have a strong opening scene, then follow it with pages of explanation. Sometimes the author is not sure whether the problem is the opening itself or what comes immediately after it.
 
-## The problem beneath the symptom
+## A hook can catch attention and still leave the reader waiting
 
-An opening can contain movement and still feel slow. The more useful question is what the reader has been invited to care about by the end of the first few pages, and whether the following pages sharpen that invitation.
+An opening does not have to begin with a fight, a death or a dramatic revelation. A quiet scene can hold attention. The reader needs something to follow, though: a question, a want, an uneasy detail, a relationship, a problem or a promise about the kind of story this will be.
 
-The same symptom can come from different causes. That is why “fixes” borrowed from another manuscript can be misleading. A slow scene might need cutting, but it might also need stronger progression. A confusing passage might need explanation, but it might instead need better sequencing. A character who feels flat might need more interiority, or the page may simply not be giving the reader enough consequential choice.
+A dramatic first paragraph can also lose its effect if the next several pages explain names, history and rules before giving the reader a reason to care about them. The hook has done its job; the handoff has not.
 
-## Investigate the page before prescribing
+## Find the point where the story stops giving the reader something to follow
 
-Write down the first concrete question you carried out of the opening. Then mark the next place where the manuscript gives that question more pressure, information, danger, desire, or consequence. If nothing develops it, you may have a handoff problem rather than a word-count problem.
+Read the first chapter without stopping to fix sentences. After each scene or section, write one line about what you now want to know. It might be as simple as: *Will she tell her brother? Why is the house empty? What does he want from the woman at the station?*
 
-Now separate **observation** from **interpretation**. “I stopped caring here” is an observation about the reading experience. “The character needs more backstory” is an interpretation. The first deserves investigation; the second is a hypothesis. Keeping that distinction intact prevents feedback from becoming a chain of untested prescriptions.
+Then look at what the next section does with that question. Does it add pressure, reveal something, complicate the choice or give the reader a new reason to continue? Or does it move away from the thing that made the opening interesting?
 
-## Why the obvious fix can fail
+If the question disappears for a long stretch, you may have a structural or sequencing problem. Cutting a few paragraphs will not necessarily solve it.
 
-Do not cut the opening simply because a reader called it slow. First establish what they were waiting for. A quiet opening can work if the reader has a reason to keep looking forward.
+## Before you cut, check three things
 
-This is one reason revision can become exhausting. An author can respond conscientiously to every comment and still move farther from the actual problem. More information can make an overloaded passage heavier. More emotion can make an already explicit scene louder. More cuts can remove the very setup that a later payoff needs.
+**Is the reader oriented?** They do not need every detail, but they should usually be able to tell whose experience they are following and what is happening in the immediate scene.
 
-## The professional-reader question
+**Does the character want something?** The desire can be small. Avoiding an awkward conversation, hiding a mistake or getting through a difficult meal can give a quiet scene direction.
 
-A useful professional read asks: **What did the manuscript make available to me at this point, what did I expect from that information, and where did my response change?** The answer is then tested against the page and against the pattern elsewhere in the manuscript.
+**Does the information arrive when it becomes useful?** A page of history may be interesting once the reader knows why that history matters. Before then, it can feel like homework.
 
-For this problem, the relevant craft lens is **Opening attention**. The point is not to impose a formula. It is to give the reading evidence a vocabulary precise enough to distinguish symptom from cause.
+## Try this on your own first chapter
 
-## A revision test
+Mark the first moment when you would want a reader to ask a question about what happens next. Then mark the next moment when the manuscript gives that question a new reason to matter. If those points are far apart, find out what the pages between them are doing. They may be building atmosphere or character—or they may be postponing the story.
 
-Make one change that is explicitly tied to the suspected mechanism. Do not make five changes at once. Reread the passage as if you did not know the intended solution. Ask whether the original reader-side problem has actually changed. Then check the neighbouring scenes or passages for side effects.
+Do not remove a slow passage just because it is quiet. Ask what the quiet is doing. If you cannot answer, that is the part to investigate.
 
-## When outside investigation earns its keep
+**Related problem:** `/problems/pacing-problem`
 
-Self-diagnosis becomes difficult when you already know what the manuscript means. You can compensate for missing information without noticing that you are doing it. An experienced outside reader cannot remove every form of subjectivity, but they can report what was actually available to them and distinguish that experience from the explanation they think follows from it.
-
-That is the distinction Second Pair is built around: **experience → evidence → pattern → diagnosis → priority → author decision**. The author keeps the creative decision. The reader supplies a more disciplined account of what happened before that decision is made.
+**When another read may help:** If you know the opening is not holding attention but cannot tell whether the cause is the hook, the scene order, the amount of explanation or the character's immediate goal, an outside reader can show you where their interest changed and what was on the page at that point.

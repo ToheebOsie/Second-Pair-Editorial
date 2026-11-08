@@ -1,12 +1,16 @@
 # Second Pair Editorial — website
 
-A Next.js/React/TypeScript editorial studio site for **Second Pair Editorial**, founded by Harry Stones.
+A Next.js/React/TypeScript editorial studio site for **Second Pair Editorial**, founded by Harry Stones. Current source package: **5.21.3**.
 
 ## Positioning
 **Find out what your manuscript is actually doing to a reader.**
 
 The site now reflects a problem-first, diagnostic commercial journey with the editorial services downstream:
 READ → DIAGNOSE → DEVELOP → REFINE → POLISH → REVISE → COMPLETE
+
+## Feedback to Final Manuscript
+
+The public offer includes one integrated, manuscript-specific editorial question package with three distinct guides: guided beta-reading questions for real readers, guided critique questions for craft-focused partners, and guided self-editing questions for the author. Feedback interpretation and line/copy editing remain later services when the author has responses and the manuscript is ready. The private intake captures author intention, current uncertainty, beta-reader evidence, critique-partner evidence, manuscript context and editing expectations.
 
 ## Services
 - Alpha Reading — $0.006/word (minimum $350)
@@ -21,7 +25,7 @@ READ → DIAGNOSE → DEVELOP → REFINE → POLISH → REVISE → COMPLETE
 
 ## Included
 - Brand migration from Harry Stones Editorial to Second Pair Editorial
-- Reader-centered homepage positioning
+- Plain-language, problem-first homepage positioning
 - Full editorial journey and service routing
 - Sample read CTA
 - Author’s Manuscript Readiness Checklist resource
@@ -83,7 +87,7 @@ The rebrand includes five logo treatments under `public/brand/`:
 The previous placeholder `editorial-mark.svg` has been removed so the old mark is not reused accidentally.
 
 ## Build validation
-V5.16 release audit: static routes, internal links, metadata, canonical URLs, public-language claims, assets and sample-read safeguards were checked. A production build still requires `npm install` and `npm run build` in a dependency-complete deployment environment.
+V5.16 release audit: static routes, internal links, metadata, canonical URLs, public-language claims, assets and sample-read safeguards were checked. V5.21.3 includes a copy/content pass and still requires the current TypeScript, lint, route/link and production-build checks in a dependency-complete environment. Do not treat this source update as deployed or production-certified.
 
 ## SEO implementation (V4)
 The SEO layer now includes:

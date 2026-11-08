@@ -2,38 +2,37 @@
 
 **Canonical problem:** `/problems/beta-readers-disagree`
 
-There is a temptation to turn this problem into a rule. Resist it. The useful question is what the reader is experiencing and what evidence on the page could explain that experience.
+One beta reader loves the slow build. Another says the book takes too long to get started. One thinks the main character is fascinating; another finds them irritating. It is tempting to count the comments and follow the majority. That can be a mistake.
 
-## The problem beneath the symptom
+## First, make sure they are talking about the same thing
 
-Disagreement is not automatically evidence that one reader is wrong. Different readers can notice the same passage for different reasons, and one reader’s preference can sit beside a genuine recurring problem.
+Readers sometimes use the same word for different experiences. “Slow” might mean that a scene has too little happening, that the reader is waiting for a promised plot thread, or that the writing gives too much space to routine actions. “Confusing” might mean the reader cannot picture the room, does not understand a magic rule or simply does not know who to trust.
 
-The same symptom can come from different causes. That is why “fixes” borrowed from another manuscript can be misleading. A slow scene might need cutting, but it might also need stronger progression. A confusing passage might need explanation, but it might instead need better sequencing. A character who feels flat might need more interiority, or the page may simply not be giving the reader enough consequential choice.
+Put the comments beside the passage they refer to. If two readers describe different moments, they may not actually disagree. They may be noticing separate problems.
 
-## Investigate the page before prescribing
+## Sort the comments before deciding what to change
 
-Put the comments beside the manuscript passage. Separate three things: what each reader experienced, what each reader thinks caused it, and what each reader wants you to change. Agreement in the first category is usually more useful than agreement in the proposed fixes.
+Try four headings:
 
-Now separate **observation** from **interpretation**. “I stopped caring here” is an observation about the reading experience. “The character needs more backstory” is an interpretation. The first deserves investigation; the second is a hypothesis. Keeping that distinction intact prevents feedback from becoming a chain of untested prescriptions.
+- **Shared observation:** more than one reader noticed the same thing.
+- **Different reaction:** readers experienced the same passage differently.
+- **Different expectation:** a reader expected a kind of story or payoff the manuscript may not be offering.
+- **Suggested fix:** someone has proposed a change. This is an idea to examine, not an instruction.
 
-## Why the obvious fix can fail
+A reader may accurately describe feeling bored and still be wrong about the reason. Another reader may enjoy the scene and still miss a clarity problem. Both responses can be useful.
 
-Do not count votes. Five readers saying “cut this” can still be less useful than two readers independently describing the same loss of clarity or momentum. Diagnose the pattern before choosing the revision.
+## When one reader may be enough
 
-This is one reason revision can become exhausting. An author can respond conscientiously to every comment and still move farther from the actual problem. More information can make an overloaded passage heavier. More emotion can make an already explicit scene louder. More cuts can remove the very setup that a later payoff needs.
+A single comment should not be dismissed automatically. If a reader points to a continuity break, a missing step in a character's reasoning or a sentence that can be read in two conflicting ways, check the page. You do not need a majority vote to verify something concrete.
 
-## The professional-reader question
+On the other hand, three readers wanting a different genre may not be evidence that you should change the book. Their expectations matter only in relation to the audience and experience you are aiming for.
 
-A useful professional read asks: **What did the manuscript make available to me at this point, what did I expect from that information, and where did my response change?** The answer is then tested against the page and against the pattern elsewhere in the manuscript.
+## Make a decision, not a poll result
 
-For this problem, the relevant craft lens is **Feedback reconciliation**. The point is not to impose a formula. It is to give the reading evidence a vocabulary precise enough to distinguish symptom from cause.
+Choose one disagreement and ask what decision you need to make. Do you want to keep the slow opening? Then investigate whether it still gives the right readers a reason to continue. Do you want the character to remain unlikeable? Then check whether readers understand the character's motives and whether the discomfort serves a purpose.
 
-## A revision test
+The goal is not to make every reader agree. It is to understand what each response is telling you and decide which part deserves a closer look.
 
-Make one change that is explicitly tied to the suspected mechanism. Do not make five changes at once. Reread the passage as if you did not know the intended solution. Ask whether the original reader-side problem has actually changed. Then check the neighbouring scenes or passages for side effects.
+**Related problem:** `/problems/editor-and-beta-disagree`
 
-## When outside investigation earns its keep
-
-Self-diagnosis becomes difficult when you already know what the manuscript means. You can compensate for missing information without noticing that you are doing it. An experienced outside reader cannot remove every form of subjectivity, but they can report what was actually available to them and distinguish that experience from the explanation they think follows from it.
-
-That is the distinction Second Pair is built around: **experience → evidence → pattern → diagnosis → priority → author decision**. The author keeps the creative decision. The reader supplies a more disciplined account of what happened before that decision is made.
+**When another read may help:** If the comments contradict one another and you cannot tell whether they describe taste, audience expectation or a repeated problem in the manuscript, an independent review can put the reactions beside the relevant pages before you revise.

@@ -1,4 +1,4 @@
-# Website Humanization Pass — V5.4
+# Website Humanization Pass — Historical V5.4 and V5.21.3 follow-up
 
 ## Purpose
 
@@ -27,6 +27,8 @@ The wording pass follows the humanization guidance in the supplied manuscript-de
 - Kept service names and SEO terms where they are useful for search or clarity.
 - Kept the site's commercial boundaries intact: no ghostwriting, no full-manuscript rewriting, transparent published rates, sample read, and author ownership of creative decisions.
 
-## Important constraint
+## Later review note
 
-This is a language and presentation pass. It does not change the service scope, pricing, legal boundaries, form workflow, or SEO architecture.
+The V5.4 audit is historical. A later repository review found that abstract phrasing and repeated content had re-entered some pages and draft assets. The V5.21.3 follow-up is documented in `V5.21.3-HUMANIZATION-AND-CONTENT-REMEDIATION.md`. This file should not be read as certification that every current customer-facing sentence has passed a fresh editorial review.
+
+The language pass does not change service scope, pricing, legal boundaries, form workflow or SEO architecture.

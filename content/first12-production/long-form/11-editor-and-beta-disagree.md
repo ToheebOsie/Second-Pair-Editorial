@@ -2,38 +2,32 @@
 
 **Canonical problem:** `/problems/editor-and-beta-disagree`
 
-There is a temptation to turn this problem into a rule. Resist it. The useful question is what the reader is experiencing and what evidence on the page could explain that experience.
+Your editor says the opening needs to move faster. Your beta readers say they enjoyed the slow atmosphere. Your editor wants a character's motive made clearer. Readers say they liked not knowing what the character was thinking. Whose advice should you follow?
 
-## The problem beneath the symptom
+## They may be answering different questions
 
-An editor and a beta reader are not necessarily doing the same job. One may be identifying a structural pattern while another is reporting an authentic individual reaction. The useful comparison is not authority versus authority; it is evidence versus interpretation.
+A beta reader usually reports what happened for them: they were interested, lost, moved, bored, surprised or unconvinced. An editor is more likely to examine how the manuscript created that response and what choices might be producing it.
 
-The same symptom can come from different causes. That is why “fixes” borrowed from another manuscript can be misleading. A slow scene might need cutting, but it might also need stronger progression. A confusing passage might need explanation, but it might instead need better sequencing. A character who feels flat might need more interiority, or the page may simply not be giving the reader enough consequential choice.
+Those roles overlap, but they are not identical. A reader can enjoy a scene that has a continuity problem. An editor can identify a structural risk that does not bother every reader. Neither response automatically settles what the author should do.
 
-## Investigate the page before prescribing
+## Put the disagreement beside the passage
 
-Put both comments against the same passage. What did each person actually observe? What explanation did each supply? Which part repeats elsewhere in the manuscript?
+Write down the editor's observation and the beta readers' responses. Then find the exact pages being discussed. Are they describing the same stretch? Does the editor mean the opening takes too long to establish the central question, while readers enjoy the atmosphere? Could both be true?
 
-Now separate **observation** from **interpretation**. “I stopped caring here” is an observation about the reading experience. “The character needs more backstory” is an interpretation. The first deserves investigation; the second is a hypothesis. Keeping that distinction intact prevents feedback from becoming a chain of untested prescriptions.
+Sometimes the issue is not whether to keep the atmosphere but whether the reader has enough to follow while it builds. Sometimes the editor has misunderstood an intentional choice. Sometimes the beta readers are responding to a strength that should be protected while another issue is addressed.
 
-## Why the obvious fix can fail
+## Ask what each person is basing the comment on
 
-Do not automatically privilege the professional comment, and do not automatically privilege the majority. A strong editorial judgment should still be traceable to the manuscript and reading experience.
+A useful editorial comment should be tied to something in the manuscript. A useful beta response should tell you where the reaction happened. If either person offers only a broad verdict—“too slow”, “works perfectly”, “the character is unlikeable”—ask for the moment that led them there.
 
-This is one reason revision can become exhausting. An author can respond conscientiously to every comment and still move farther from the actual problem. More information can make an overloaded passage heavier. More emotion can make an already explicit scene louder. More cuts can remove the very setup that a later payoff needs.
+Then compare the evidence with the kind of book you intend to write. Advice about a fast-moving commercial thriller may not fit a deliberately reflective literary novel. But an intended slow pace still needs to give its readers something to follow.
 
-## The professional-reader question
+## The author is not a referee counting votes
 
-A useful professional read asks: **What did the manuscript make available to me at this point, what did I expect from that information, and where did my response change?** The answer is then tested against the page and against the pattern elsewhere in the manuscript.
+You do not need to make the editor and beta readers agree. You need to understand what each response is pointing towards and decide whether a change serves the book.
 
-For this problem, the relevant craft lens is **Evidence hierarchy**. The point is not to impose a formula. It is to give the reading evidence a vocabulary precise enough to distinguish symptom from cause.
+If you keep the slow opening, do so because the atmosphere, voice or character work is doing something important—not simply because one reader liked it. If you make it faster, know what you are trying to improve and what you might lose.
 
-## A revision test
+**Related problem:** `/problems/beta-readers-disagree`
 
-Make one change that is explicitly tied to the suspected mechanism. Do not make five changes at once. Reread the passage as if you did not know the intended solution. Ask whether the original reader-side problem has actually changed. Then check the neighbouring scenes or passages for side effects.
-
-## When outside investigation earns its keep
-
-Self-diagnosis becomes difficult when you already know what the manuscript means. You can compensate for missing information without noticing that you are doing it. An experienced outside reader cannot remove every form of subjectivity, but they can report what was actually available to them and distinguish that experience from the explanation they think follows from it.
-
-That is the distinction Second Pair is built around: **experience → evidence → pattern → diagnosis → priority → author decision**. The author keeps the creative decision. The reader supplies a more disciplined account of what happened before that decision is made.
+**When another read may help:** When feedback from different roles seems to contradict itself, a separate review can help identify whether the disagreement is about reader preference, a craft issue or the author's intended effect.

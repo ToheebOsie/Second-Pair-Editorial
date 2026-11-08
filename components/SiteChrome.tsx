@@ -27,13 +27,13 @@ export function Footer(){
     <div className="container footer-grid">
       <div>
         <Image width={435} height={280} className="footer-logo" src="/brand/second-pair-dark.png" alt="Second Pair Editorial" />
-        <p>Professional manuscript intelligence for authors.</p>
-        <p>Evidence. Diagnosis. Priorities. Better decisions.</p>
+        <p>Close reading and editorial help for authors.</p>
+        <p>Find what is not working. Decide what to do about it.</p>
       </div>
       <div><b>Explore</b><Link href="/how-we-read">How We Read</Link><Link href="/problems">Problems</Link><Link href="/services">Services</Link><Link href="/proof">Proof</Link><Link href="/team">Our Team</Link><Link href="/about">About</Link><Link href="/resources">Resources</Link></div>
       <div><b>Start here</b><Link href="/request-sample">Start With Your Manuscript Question</Link><Link href="/start/feedback-to-final-manuscript">Feedback to Final Manuscript</Link><Link href="/pricing">Pricing</Link><Link href="/faq">FAQ</Link></div>
       <div><b>Legal</b><Link href="/privacy">Privacy &amp; Manuscript Security</Link><Link href="/terms">Service Terms</Link></div>
     </div>
-    <div className="container footer-bottom"><span>© {new Date().getFullYear()} Second Pair Editorial</span><span>Reader-centred manuscript development and editorial services.</span><a className="footer-cookie-settings" href="#cookie-settings" data-open-cookie-settings>Cookie settings</a></div>
+    <div className="container footer-bottom"><span>© {new Date().getFullYear()} Second Pair Editorial</span><span>Manuscript reading, feedback and editing for authors.</span><a className="footer-cookie-settings" href="#cookie-settings" data-open-cookie-settings>Cookie settings</a></div>
   </footer>
 }

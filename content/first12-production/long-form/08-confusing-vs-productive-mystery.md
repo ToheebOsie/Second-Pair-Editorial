@@ -2,38 +2,32 @@
 
 **Canonical problem:** `/problems/confusing-vs-productive-mystery`
 
-There is a temptation to turn this problem into a rule. Resist it. The useful question is what the reader is experiencing and what evidence on the page could explain that experience.
+A mystery should leave the reader with questions. Confusion is different. It leaves them unsure what they have just read, who is involved or why a moment matters.
 
-## The problem beneath the symptom
+## The reader can be uncertain and still know where they are
 
-A mystery withholds an answer while leaving the reader enough material to form a question. Confusion can withhold so much that the reader cannot tell what kind of question they are supposed to be asking.
+A reader may not know who sent the letter, whether the witness is lying or what the strange light means. Those can be productive questions. They can keep the reader looking for clues.
 
-The same symptom can come from different causes. That is why “fixes” borrowed from another manuscript can be misleading. A slow scene might need cutting, but it might also need stronger progression. A confusing passage might need explanation, but it might instead need better sequencing. A character who feels flat might need more interiority, or the page may simply not be giving the reader enough consequential choice.
+But if the reader cannot tell who received the letter, what the witness actually said or where the light appeared, the uncertainty may be accidental. The reader is missing the ground on which the mystery stands.
 
-## Investigate the page before prescribing
+## Separate the question from the missing information
 
-At the end of a chapter, write the question you think the reader should have. Then write the strongest question a cold reader could reasonably form from the page. The distance between those two answers is useful evidence.
+Choose a passage that readers called confusing. Ask what question you wanted them to carry forward. Then ask what they needed to understand before they could ask it.
 
-Now separate **observation** from **interpretation**. “I stopped caring here” is an observation about the reading experience. “The character needs more backstory” is an interpretation. The first deserves investigation; the second is a hypothesis. Keeping that distinction intact prevents feedback from becoming a chain of untested prescriptions.
+For example, you may want readers to wonder why a character refuses to enter a room. They do not need to know the reason yet. They do need to understand that the character sees the room, recognises something about it and chooses not to enter.
 
-## Why the obvious fix can fail
+If readers instead ask who is in the room or whether the character has even noticed it, the scene may not be giving them enough orientation.
 
-Do not explain everything simply because someone was uncertain. Mystery depends on uncertainty. The issue is whether the uncertainty is structured enough to create curiosity rather than disengagement.
+## Do not explain away every unanswered question
 
-This is one reason revision can become exhausting. An author can respond conscientiously to every comment and still move farther from the actual problem. More information can make an overloaded passage heavier. More emotion can make an already explicit scene louder. More cuts can remove the very setup that a later payoff needs.
+A mystery loses force when the narration explains what the reader is meant to wonder about. The aim is not to make everything obvious. It is to keep the uncertainty attached to the right question.
 
-## The professional-reader question
+Try listing the questions a reader should have at the end of the scene. Next to each, write what they already know and what remains hidden. If a question depends on information that has not appeared at all, consider whether you are withholding a clue or simply forgetting to provide a necessary step.
 
-A useful professional read asks: **What did the manuscript make available to me at this point, what did I expect from that information, and where did my response change?** The answer is then tested against the page and against the pattern elsewhere in the manuscript.
+## Read the passage without your private answer
 
-For this problem, the relevant craft lens is **Controlled uncertainty**. The point is not to impose a formula. It is to give the reading evidence a vocabulary precise enough to distinguish symptom from cause.
+This is difficult for the author because you know what the clue means. A first-time reader does not. Ask someone to describe what they think is happening before they speculate about the mystery. Their account can show whether they are intrigued by the intended question or trying to reconstruct basic events.
 
-## A revision test
+**Related problem:** `/problems/opening-feels-slow`
 
-Make one change that is explicitly tied to the suspected mechanism. Do not make five changes at once. Reread the passage as if you did not know the intended solution. Ask whether the original reader-side problem has actually changed. Then check the neighbouring scenes or passages for side effects.
-
-## When outside investigation earns its keep
-
-Self-diagnosis becomes difficult when you already know what the manuscript means. You can compensate for missing information without noticing that you are doing it. An experienced outside reader cannot remove every form of subjectivity, but they can report what was actually available to them and distinguish that experience from the explanation they think follows from it.
-
-That is the distinction Second Pair is built around: **experience → evidence → pattern → diagnosis → priority → author decision**. The author keeps the creative decision. The reader supplies a more disciplined account of what happened before that decision is made.
+**When another read may help:** An outside reader can tell you what they are curious about and what they cannot picture. Those are different responses, and you may need to preserve one while fixing the other.

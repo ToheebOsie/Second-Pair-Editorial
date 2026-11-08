@@ -2,38 +2,32 @@
 
 **Canonical problem:** `/problems/readers-understand-but-dont-care`
 
-There is a temptation to turn this problem into a rule. Resist it. The useful question is what the reader is experiencing and what evidence on the page could explain that experience.
+This is a frustrating kind of feedback because it sounds as though the reader followed everything correctly. They know what happened. They understand the plan. They can explain the conflict. Yet they are not especially bothered about what happens next.
 
-## The problem beneath the symptom
+## Clear events are not the same as meaningful events
 
-Comprehension is only one layer of reading. A reader can understand every event and still feel little urgency if the manuscript has not made the consequences, desires, relationships, or unanswered questions matter to them.
+A reader can follow a character through a series of tasks without feeling invested in any of them. The missing piece may be consequence. What does the character stand to lose? Why does this matter to them now? What changes if they fail?
 
-The same symptom can come from different causes. That is why “fixes” borrowed from another manuscript can be misleading. A slow scene might need cutting, but it might also need stronger progression. A confusing passage might need explanation, but it might instead need better sequencing. A character who feels flat might need more interiority, or the page may simply not be giving the reader enough consequential choice.
+It may also be a relationship problem. A character can be described as lonely, frightened or devoted, but readers often connect through what the character chooses, notices, avoids and risks. An emotion label tells us what the character feels; the scene has to give that feeling weight.
 
-## Investigate the page before prescribing
+## Look at what the reader is being asked to care about
 
-Find a section readers described as clear but flat. Ask what the reader wanted at the start of it, what could be lost, and whose situation changed. If you can answer only the first question, the passage may be explaining events without creating enough investment in them.
+Choose a scene that someone called clear but uninteresting. Write down what the viewpoint character wants before the scene begins. Then write down what makes that want difficult, what could go wrong and what is different by the end.
 
-Now separate **observation** from **interpretation**. “I stopped caring here” is an observation about the reading experience. “The character needs more backstory” is an interpretation. The first deserves investigation; the second is a hypothesis. Keeping that distinction intact prevents feedback from becoming a chain of untested prescriptions.
+If the answers are hard to find, the scene may be reporting events rather than putting something at stake. If the character's goal is clear but the consequence is distant, the reader may understand the task without feeling urgency.
 
-## Why the obvious fix can fail
+## Do not solve this by adding emotion words
 
-Do not respond by adding emotion words. “More emotional” is not a diagnosis. Look for the missing pressure that would make the event matter to this particular character and therefore to the reader.
+Adding more tears, anger, fear or internal monologue may make the prose louder without making the situation matter more. A character does not become moving simply because the narration tells us they are devastated.
 
-This is one reason revision can become exhausting. An author can respond conscientiously to every comment and still move farther from the actual problem. More information can make an overloaded passage heavier. More emotion can make an already explicit scene louder. More cuts can remove the very setup that a later payoff needs.
+Instead, look for a choice that costs something, a relationship that can change, an expectation that may be broken or a small detail that means more to this character than it would to anyone else. The reader needs a reason to attach importance to the event.
 
-## The professional-reader question
+## A useful question for the next pass
 
-A useful professional read asks: **What did the manuscript make available to me at this point, what did I expect from that information, and where did my response change?** The answer is then tested against the page and against the pattern elsewhere in the manuscript.
+At the end of each major scene, ask: *What does the reader now hope, fear or want to know?* If the answer is always the same as it was at the beginning, the scene may not be changing the reader's investment, even if it moves the plot along.
 
-For this problem, the relevant craft lens is **Reader investment**. The point is not to impose a formula. It is to give the reading evidence a vocabulary precise enough to distinguish symptom from cause.
+Some stories deliberately keep readers at a distance. Some narrators are emotionally detached, and some characters are meant to be difficult to like. The issue is not whether the reader feels warmly towards everyone. It is whether the distance creates the effect you intended.
 
-## A revision test
+**Related problem:** `/problems/character-makes-sense-to-me`
 
-Make one change that is explicitly tied to the suspected mechanism. Do not make five changes at once. Reread the passage as if you did not know the intended solution. Ask whether the original reader-side problem has actually changed. Then check the neighbouring scenes or passages for side effects.
-
-## When outside investigation earns its keep
-
-Self-diagnosis becomes difficult when you already know what the manuscript means. You can compensate for missing information without noticing that you are doing it. An experienced outside reader cannot remove every form of subjectivity, but they can report what was actually available to them and distinguish that experience from the explanation they think follows from it.
-
-That is the distinction Second Pair is built around: **experience → evidence → pattern → diagnosis → priority → author decision**. The author keeps the creative decision. The reader supplies a more disciplined account of what happened before that decision is made.
+**When another read may help:** An outside reader can tell you which events they understood but did not care about, where they began to invest, and whether the problem seems to be consequence, character attachment, scene emphasis or something else.

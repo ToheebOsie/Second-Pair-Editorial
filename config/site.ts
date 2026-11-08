@@ -13,7 +13,7 @@ export const site = {
   founder: 'Harry Stones',
   founderTitle: 'Founder / Editorial Director',
   tagline: 'Find out what your manuscript is actually doing to a reader.',
-  description: 'Reader-centered manuscript development, editorial feedback and editing for authors who want to know what is working, what is getting in the way, and what to do next.',
+  description: 'Close manuscript reading, beta feedback, developmental guidance and editing for authors who want to know where readers get lost, lose interest or connect with the story.',
   email: contactEmail || 'REPLACE-BEFORE-LAUNCH@example.com',
   website: (siteUrl || 'http://localhost:3000').replace(/\/+$/, ''),
 } as const;

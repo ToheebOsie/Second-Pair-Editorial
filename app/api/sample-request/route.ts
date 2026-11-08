@@ -77,7 +77,7 @@ export async function POST(request: Request) {
     if (file.size > MAX_FILE_SIZE) return NextResponse.json({error: 'The upload exceeds the 10 MB limit. This form cannot accept larger files; contact us before sending a file so we can discuss whether an appropriate transfer method is available.'}, {status: 400});
 
     const ext = extension(file.name);
-    if (!ALLOWED_EXTENSIONS.has(ext) || !ALLOWED_TYPES.has(file.type)) return NextResponse.json({error: 'Only DOCX and PDF files are accepted.'}, {status: 400});
+    if (!ALLOWED_EXTENSIONS.has(ext) || (!ALLOWED_TYPES.has(file.type) && file.type !== '' && file.type !== 'application/octet-stream')) return NextResponse.json({error: 'Only DOCX and PDF files are accepted.'}, {status: 400});
 
     const bytes = await file.arrayBuffer();
     const header = Buffer.from(bytes.slice(0, 8));

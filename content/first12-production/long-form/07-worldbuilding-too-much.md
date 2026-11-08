@@ -2,38 +2,32 @@
 
 **Canonical problem:** `/problems/worldbuilding-too-much`
 
-There is a temptation to turn this problem into a rule. Resist it. The useful question is what the reader is experiencing and what evidence on the page could explain that experience.
+You may have spent months building the history, rules, languages, politics and geography of your world. That work can make the story feel real to you. The difficult part is deciding how much of it belongs in a particular chapter.
 
-## The problem beneath the symptom
+## The reader does not need the whole world at once
 
-The problem is rarely that a fictional world contains too much information. It is that the reader is asked to process information before the story has made that information useful.
+A reader may need to know that a city is divided by a river before a chase makes sense. They probably do not need the full history of the river's construction in the same scene. A magic rule matters when a character relies on it, breaks it or suffers because of it. Before that, it may just be another term to remember.
 
-The same symptom can come from different causes. That is why “fixes” borrowed from another manuscript can be misleading. A slow scene might need cutting, but it might also need stronger progression. A confusing passage might need explanation, but it might instead need better sequencing. A character who feels flat might need more interiority, or the page may simply not be giving the reader enough consequential choice.
+The question is not whether a detail is interesting. It is whether the reader needs it here, whether it changes how they understand the scene and whether they have enough context to remember it.
 
-## Investigate the page before prescribing
+## Notice when explanation interrupts the thing it is explaining
 
-Mark every piece of world information in a dense passage. For each one, ask: does the reader need this now to understand the action, anticipate a consequence, or interpret a choice? If not, ask whether it can arrive later.
+A character walks into a council chamber. The scene pauses for a list of offices, old treaties, family titles and political history. Some of that may matter. But if the reader has not yet learned what the character wants from the meeting, the information has no immediate shape.
 
-Now separate **observation** from **interpretation**. “I stopped caring here” is an observation about the reading experience. “The character needs more backstory” is an interpretation. The first deserves investigation; the second is a hypothesis. Keeping that distinction intact prevents feedback from becoming a chain of untested prescriptions.
+Try giving the reader the detail when it affects a choice. The treaty matters when someone invokes it. The title matters when it changes who can speak. The magic rule matters when using it carries a cost.
 
-## Why the obvious fix can fail
+## Keep the detail that changes the reader's picture
 
-Do not strip the world down simply because a reader felt overloaded. The better question is whether the information is anchored to something the reader currently cares about.
+Not all explanation is a problem. A physical detail can help a reader understand where a character is standing. A small custom can make a society feel different. A rule can create suspense if the reader understands what happens when it is broken.
 
-This is one reason revision can become exhausting. An author can respond conscientiously to every comment and still move farther from the actual problem. More information can make an overloaded passage heavier. More emotion can make an already explicit scene louder. More cuts can remove the very setup that a later payoff needs.
+Look for repeated explanations, clusters of unfamiliar terms and paragraphs that describe something the scene never uses. Those are better places to investigate than simply counting how many worldbuilding paragraphs you have.
 
-## The professional-reader question
+## Try a “need to know now” pass
 
-A useful professional read asks: **What did the manuscript make available to me at this point, what did I expect from that information, and where did my response change?** The answer is then tested against the page and against the pattern elsewhere in the manuscript.
+On one chapter, mark each piece of world information. Beside it, write what the reader can do with it at that moment: picture the space, understand a choice, anticipate a danger, recognise a relationship or interpret a consequence. If you cannot name its job, ask whether it can wait.
 
-For this problem, the relevant craft lens is **Information timing**. The point is not to impose a formula. It is to give the reading evidence a vocabulary precise enough to distinguish symptom from cause.
+You do not have to remove the world's depth. You may need to let readers discover it in the order that makes the story easier to follow.
 
-## A revision test
+**Related problem:** `/problems/opening-feels-slow`
 
-Make one change that is explicitly tied to the suspected mechanism. Do not make five changes at once. Reread the passage as if you did not know the intended solution. Ask whether the original reader-side problem has actually changed. Then check the neighbouring scenes or passages for side effects.
-
-## When outside investigation earns its keep
-
-Self-diagnosis becomes difficult when you already know what the manuscript means. You can compensate for missing information without noticing that you are doing it. An experienced outside reader cannot remove every form of subjectivity, but they can report what was actually available to them and distinguish that experience from the explanation they think follows from it.
-
-That is the distinction Second Pair is built around: **experience → evidence → pattern → diagnosis → priority → author decision**. The author keeps the creative decision. The reader supplies a more disciplined account of what happened before that decision is made.
+**When another read may help:** Readers can show you which terms they forgot, which explanations interrupted the scene and which small details helped them picture the world. That is more useful than a general instruction to cut the lore.

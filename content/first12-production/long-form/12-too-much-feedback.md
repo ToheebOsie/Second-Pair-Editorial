@@ -2,38 +2,38 @@
 
 **Canonical problem:** `/problems/too-much-feedback`
 
-There is a temptation to turn this problem into a rule. Resist it. The useful question is what the reader is experiencing and what evidence on the page could explain that experience.
+You asked several people to read your manuscript. Now you have pages of comments, suggestions in the margins, a long report and a list of changes. Some comments agree. Others contradict one another. You may have more feedback than you can use.
 
-## The problem beneath the symptom
+## Do not start by making a to-do list
 
-The problem with a large pile of notes is not the number of comments. It is that comments can sit at different levels: sentence preference, scene problem, character issue, structural consequence, or reader expectation. Treating them as equal creates revision noise.
+If you turn every comment into an editing task, you can spend weeks fixing things that do not matter much. You may also make several changes that work against each other. Before editing, sort what people actually said.
 
-The same symptom can come from different causes. That is why “fixes” borrowed from another manuscript can be misleading. A slow scene might need cutting, but it might also need stronger progression. A confusing passage might need explanation, but it might instead need better sequencing. A character who feels flat might need more interiority, or the page may simply not be giving the reader enough consequential choice.
+Keep three things separate:
 
-## Investigate the page before prescribing
+1. **What the reader experienced:** bored, confused, moved, unconvinced, curious.
+2. **What the reader thinks caused it:** too much description, weak motivation, a missing explanation.
+3. **What the reader recommends:** cut the scene, add backstory, change the character's decision.
 
-Sort comments into observation, possible cause, suggested fix, and preference. Then look for comments that point to the same underlying pattern. Those clusters deserve attention before isolated line-level suggestions.
+The first is a report of their experience. The second is an explanation to check. The third is a possible solution. They should not be treated as one piece of evidence.
 
-Now separate **observation** from **interpretation**. “I stopped caring here” is an observation about the reading experience. “The character needs more backstory” is an interpretation. The first deserves investigation; the second is a hypothesis. Keeping that distinction intact prevents feedback from becoming a chain of untested prescriptions.
+## Look for the comments that point to the same place
 
-## Why the obvious fix can fail
+Readers may use different words for the same issue. One says the chapter drags; another says nothing changes; a third says the conversation repeats itself. Put those comments together and read the scene again. They may be pointing to repeated information or a missing turn.
 
-Do not try to satisfy every comment. Your job is not to make every reader happy; it is to decide which evidence identifies a problem worth solving in this manuscript.
+A cluster of comments is worth attention, but frequency is not the only test. One reader may identify a factual contradiction, a confusing pronoun or a missing step in the plot. Check it even if nobody else mentioned it.
 
-This is one reason revision can become exhausting. An author can respond conscientiously to every comment and still move farther from the actual problem. More information can make an overloaded passage heavier. More emotion can make an already explicit scene louder. More cuts can remove the very setup that a later payoff needs.
+## Decide what needs attention first
 
-## The professional-reader question
+Start with problems that prevent readers from understanding important events, following character decisions or recognising why the central conflict matters. Then look at recurring pacing, structure and character concerns. Smaller wording preferences can wait until the larger decisions are settled.
 
-A useful professional read asks: **What did the manuscript make available to me at this point, what did I expect from that information, and where did my response change?** The answer is then tested against the page and against the pattern elsewhere in the manuscript.
+This order is not a rule for every manuscript. A book built around an intentionally disorienting voice may need a different set of priorities from a tightly plotted mystery. The reason for the order should be clear to the author.
 
-For this problem, the relevant craft lens is **Revision prioritization**. The point is not to impose a formula. It is to give the reading evidence a vocabulary precise enough to distinguish symptom from cause.
+## Keep the comments that remind you what is working
 
-## A revision test
+Feedback is not only a list of faults. Note the scenes readers remembered, the characters they cared about, the descriptions that helped them picture the world and the choices they found surprising in a good way. Those are things to protect while revising.
 
-Make one change that is explicitly tied to the suspected mechanism. Do not make five changes at once. Reread the passage as if you did not know the intended solution. Ask whether the original reader-side problem has actually changed. Then check the neighbouring scenes or passages for side effects.
+You do not owe every reader a revision. You owe the manuscript a considered decision.
 
-## When outside investigation earns its keep
+**Related problem:** `/problems/editor-and-beta-disagree`
 
-Self-diagnosis becomes difficult when you already know what the manuscript means. You can compensate for missing information without noticing that you are doing it. An experienced outside reader cannot remove every form of subjectivity, but they can report what was actually available to them and distinguish that experience from the explanation they think follows from it.
-
-That is the distinction Second Pair is built around: **experience → evidence → pattern → diagnosis → priority → author decision**. The author keeps the creative decision. The reader supplies a more disciplined account of what happened before that decision is made.
+**When another read may help:** If the comments have become a pile you cannot sort, feedback interpretation can group what readers noticed, separate their explanations from their suggested fixes and help you choose what deserves a closer look.

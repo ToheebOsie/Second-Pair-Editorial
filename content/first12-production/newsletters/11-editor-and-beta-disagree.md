@@ -1,30 +1,14 @@
-# What should I do when my editor and beta readers disagree?
+# Your editor and beta readers disagree. What are they each noticing?
 
 **Second Pair Newsletter**  
 **Canonical problem:** `/problems/editor-and-beta-disagree`
 
-## The useful distinction
+A beta reader tells you how the book felt to them. An editor may be looking at how the writing produced that response and whether the issue is likely to recur. Those are related jobs, but they are not identical.
 
-An editor and a beta reader are not necessarily doing the same job. One may be identifying a structural pattern while another is reporting an authentic individual reaction. The useful comparison is not authority versus authority; it is evidence versus interpretation.
+If your editor calls the opening slow and your beta readers like the atmosphere, put both comments beside the pages. Perhaps the atmosphere is working, but the reader has no clear question to follow. Perhaps the editor has mistaken a deliberate pause for a problem. You need to examine the passage before choosing.
 
-## Try this on the manuscript
+Ask both people where their comment came from. “Too slow” is a starting point, not enough information to decide what should change.
 
-Put both comments against the same passage. What did each person actually observe? What explanation did each supply? Which part repeats elsewhere in the manuscript?
+You do not need to make everyone agree. You need to decide what serves the book you want to write.
 
-## What not to assume
-
-Do not automatically privilege the professional comment, and do not automatically privilege the majority. A strong editorial judgment should still be traceable to the manuscript and reading experience.
-
-## What a professional read adds
-
-
-
-### A useful boundary
-
-This kind of self-check can tell you what to investigate. It cannot reproduce a sustained outside read, because the outside reader does not carry your private knowledge of the manuscript. That is where professional reader intelligence becomes useful: not as a louder opinion, but as a disciplined account of what the page made available to someone who did not write it.
-
-
-**Professional lens:** Evidence hierarchy.  
-**Related craft focus:** Professional feedback: evidence, role, pattern, interpretation, priority.
-
-**Next step:** If the manuscript still leaves the cause unclear after this test, that uncertainty is itself useful evidence for an outside diagnostic read.
+**More on this:** `/problems/editor-and-beta-disagree`

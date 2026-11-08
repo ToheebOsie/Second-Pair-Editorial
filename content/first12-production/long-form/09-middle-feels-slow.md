@@ -2,38 +2,32 @@
 
 **Canonical problem:** `/problems/middle-feels-slow`
 
-There is a temptation to turn this problem into a rule. Resist it. The useful question is what the reader is experiencing and what evidence on the page could explain that experience.
+This is a common revision bind: you look at the middle of the book and every scene seems to have a reason to be there. A relationship develops here. A clue appears there. Another scene sets up the ending. Yet the whole stretch feels as though it is taking too long.
 
-## The problem beneath the symptom
+## Necessary does not always mean well placed
 
-A scene can be necessary without being sufficient. Several necessary scenes can still produce a slow middle if they repeatedly move the same piece of the story by a small amount.
+A scene can contain information the ending needs and still arrive too early. Two scenes can each be useful while doing nearly the same job. A character can repeat a worry because it matters to them, but the reader may already understand it.
 
-The same symptom can come from different causes. That is why “fixes” borrowed from another manuscript can be misleading. A slow scene might need cutting, but it might also need stronger progression. A confusing passage might need explanation, but it might instead need better sequencing. A character who feels flat might need more interiority, or the page may simply not be giving the reader enough consequential choice.
+The middle can also lose momentum when the story keeps postponing the consequence of earlier events. Characters discuss a problem, prepare to act, receive another warning and discuss the same problem again. The plot has not stopped, but the situation has barely changed.
 
-## Investigate the page before prescribing
+## Draw a line through what changes
 
-Write one sentence for what is different after each scene. Then group scenes that change the same thing: the same relationship, revelation, plan, or emotional state. Those clusters are where the useful revision questions usually begin.
+Write a one-sentence description of each scene in the middle. Avoid summarising everything that happens. Instead, finish this sentence: *After this scene, the reader knows/wants/fears/expects…*
 
-Now separate **observation** from **interpretation**. “I stopped caring here” is an observation about the reading experience. “The character needs more backstory” is an interpretation. The first deserves investigation; the second is a hypothesis. Keeping that distinction intact prevents feedback from becoming a chain of untested prescriptions.
+Read the list from top to bottom. Do the answers develop? Does a decision create a new problem? Does a relationship become harder to repair? Does a clue change what the character believes? If the same sentence appears several times, those scenes may be repeating a function.
 
-## Why the obvious fix can fail
+## Look for setup that has lost its connection to payoff
 
-Do not delete a scene merely because it does not contain a dramatic event. Look at what it contributes that another scene does not.
+Some scenes are quiet because they are preparing something important. That is not wasted space. But the preparation needs to keep the reader aware—perhaps indirectly—that something is changing. If the payoff is too distant or the connection too faint, the scene may feel like a detour.
 
-This is one reason revision can become exhausting. An author can respond conscientiously to every comment and still move farther from the actual problem. More information can make an overloaded passage heavier. More emotion can make an already explicit scene louder. More cuts can remove the very setup that a later payoff needs.
+Check whether later chapters use what the middle establishes. If they do, the question may be how to make the connection clearer. If they do not, consider whether the setup is still needed.
 
-## The professional-reader question
+## Do not turn every chapter into a cliffhanger
 
-A useful professional read asks: **What did the manuscript make available to me at this point, what did I expect from that information, and where did my response change?** The answer is then tested against the page and against the pattern elsewhere in the manuscript.
+A middle does not need constant danger or a surprise at the end of every scene. A novel can build through friendship, investigation, atmosphere, recovery or gradual change. What matters is that the reader has a sense of movement, even when the movement is quiet.
 
-For this problem, the relevant craft lens is **Narrative progression**. The point is not to impose a formula. It is to give the reading evidence a vocabulary precise enough to distinguish symptom from cause.
+**Try this:** Mark the scenes where the character's goal, knowledge, relationship or available choices change. Then look at the long stretches where none of those things change. Those are the places to review first.
 
-## A revision test
+**Related problem:** `/problems/pacing-problem`
 
-Make one change that is explicitly tied to the suspected mechanism. Do not make five changes at once. Reread the passage as if you did not know the intended solution. Ask whether the original reader-side problem has actually changed. Then check the neighbouring scenes or passages for side effects.
-
-## When outside investigation earns its keep
-
-Self-diagnosis becomes difficult when you already know what the manuscript means. You can compensate for missing information without noticing that you are doing it. An experienced outside reader cannot remove every form of subjectivity, but they can report what was actually available to them and distinguish that experience from the explanation they think follows from it.
-
-That is the distinction Second Pair is built around: **experience → evidence → pattern → diagnosis → priority → author decision**. The author keeps the creative decision. The reader supplies a more disciplined account of what happened before that decision is made.
+**When another read may help:** An outside reader can tell you where they felt the story was circling, even if you can explain why each scene is present. That can help distinguish a scene that is necessary from one that is doing its job more than once.

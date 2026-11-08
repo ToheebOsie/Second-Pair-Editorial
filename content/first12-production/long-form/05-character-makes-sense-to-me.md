@@ -2,38 +2,34 @@
 
 **Canonical problem:** `/problems/character-makes-sense-to-me`
 
-There is a temptation to turn this problem into a rule. Resist it. The useful question is what the reader is experiencing and what evidence on the page could explain that experience.
+You know the character's history. You know what happened before the story began. You know why that remark hurt, why they avoid their family or why they would rather risk everything than ask for help. The reader may know none of that.
 
-## The problem beneath the symptom
+## The character's private logic may not be on the page
 
-Authors know far more about a character than the page necessarily communicates. The author knows the history behind a decision; the reader sees the decision itself and whatever evidence surrounds it.
+An author often fills gaps without noticing. A character refuses an offer and the author understands the refusal because of a childhood experience described in a notebook, a chapter removed during revision or a fact that has never been stated. The reader sees the refusal without the missing reason.
 
-The same symptom can come from different causes. That is why “fixes” borrowed from another manuscript can be misleading. A slow scene might need cutting, but it might also need stronger progression. A confusing passage might need explanation, but it might instead need better sequencing. A character who feels flat might need more interiority, or the page may simply not be giving the reader enough consequential choice.
+That does not mean every motivation needs a paragraph of explanation. Readers can infer a great deal from a pattern of choices. But the clues have to be available.
 
-## Investigate the page before prescribing
+## Trace one decision back through the manuscript
 
-Take one disputed character choice. Ignore the biography for a moment. What could the reader know at that point? What might they reasonably expect the character to do? What on the page makes the actual choice intelligible?
+Choose a moment where a reader said the character acted out of nowhere, seemed irrational or was difficult to understand. Work backwards.
 
-Now separate **observation** from **interpretation**. “I stopped caring here” is an observation about the reading experience. “The character needs more backstory” is an interpretation. The first deserves investigation; the second is a hypothesis. Keeping that distinction intact prevents feedback from becoming a chain of untested prescriptions.
+What does the character want in that scene? What do they believe will happen if they choose one way rather than another? What do they know that the reader also knows? Which earlier action or line gives the reader a reason to understand the choice?
 
-## Why the obvious fix can fail
+If the explanation exists only in your notes or in your own knowledge of the character, the scene may need a clue. If the clues are present but easy to miss, the order or emphasis may be the problem.
 
-Do not add backstory automatically. Sometimes the problem is not missing information but missing evidence of desire, pressure, contradiction, or choice.
+## Be careful with backstory as a quick repair
 
-This is one reason revision can become exhausting. An author can respond conscientiously to every comment and still move farther from the actual problem. More information can make an overloaded passage heavier. More emotion can make an already explicit scene louder. More cuts can remove the very setup that a later payoff needs.
+Adding a paragraph about the character's childhood may explain the author’s thinking without making the present decision more convincing. Sometimes one small reaction, a hesitation or a choice under pressure will do more than a page of history.
 
-## The professional-reader question
+Also consider whether the character is meant to be understood. A secretive or self-deceiving character may be deliberately hard to read. The question is whether the reader is productively curious or simply missing information needed to follow the scene.
 
-A useful professional read asks: **What did the manuscript make available to me at this point, what did I expect from that information, and where did my response change?** The answer is then tested against the page and against the pattern elsewhere in the manuscript.
+## Ask what the reader could reasonably infer
 
-For this problem, the relevant craft lens is **Character legibility**. The point is not to impose a formula. It is to give the reading evidence a vocabulary precise enough to distinguish symptom from cause.
+Put yourself at the point where the decision happens. Ignore everything you know from later chapters. What has the reader seen so far? Could they make a reasonable guess about the character's motive, even if they disagree with it?
 
-## A revision test
+The answer may be that the character's logic is present but uncomfortable. That is different from the logic being absent.
 
-Make one change that is explicitly tied to the suspected mechanism. Do not make five changes at once. Reread the passage as if you did not know the intended solution. Ask whether the original reader-side problem has actually changed. Then check the neighbouring scenes or passages for side effects.
+**Related problem:** `/problems/characters-sound-the-same`
 
-## When outside investigation earns its keep
-
-Self-diagnosis becomes difficult when you already know what the manuscript means. You can compensate for missing information without noticing that you are doing it. An experienced outside reader cannot remove every form of subjectivity, but they can report what was actually available to them and distinguish that experience from the explanation they think follows from it.
-
-That is the distinction Second Pair is built around: **experience → evidence → pattern → diagnosis → priority → author decision**. The author keeps the creative decision. The reader supplies a more disciplined account of what happened before that decision is made.
+**When another read may help:** An outside reader can tell you what they thought motivated the character before you explain the backstory. That first response can reveal exactly where your private knowledge is filling a gap.

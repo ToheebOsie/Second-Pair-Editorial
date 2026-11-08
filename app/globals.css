@@ -142,7 +142,7 @@ nav a:hover, .text-link:hover { color: var(--accent); }
 .homepage-package-panel .button:hover { border-color: #faf9f6; background: #faf9f6; }
 .homepage-package-stages { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 12px; padding-bottom: 20px; border-bottom: 1px solid rgba(250,249,246,.2); }
 .homepage-package-stages span { color: #d7d0cc; font-size: 10px; font-weight: 800; letter-spacing: .08em; }
-.homepage-package-stages b { display: block; margin-bottom: 8px; color: var(--accent); font: 22px var(--serif); letter-spacing: 0; }
+.homepage-package-stages b { display: block; margin-bottom: 8px; color: #c4a26a; font: 22px var(--serif); letter-spacing: 0; }
 
 /* Annotation preview */
 .annotation-wrap { position: relative; min-width: 0; }
@@ -454,6 +454,20 @@ summary span { color: var(--accent-dark); font: 400 20px var(--sans); }
 .package-stage-number { display: block; margin-bottom: 20px; color: var(--accent-dark); font: 25px var(--serif); }
 .package-stage-grid h3 { margin: 11px 0 10px; font: 500 29px/1.2 var(--serif); }
 .package-stage-grid p, .package-payment-grid p, .package-route-grid p { margin-bottom: 0; color: var(--muted); font-size: 14px; }
+
+.package-perspective-grid article { display: flex; flex-direction: column; align-items: flex-start; }
+.package-perspective-grid article > p { margin: 0 0 12px; }
+.package-perspective-grid article > p strong { color: var(--ink); }
+.package-perspective-grid .feature-list { width: 100%; margin: 12px 0 22px; }
+.package-perspective-grid .feature-list li { font-size: 13px; line-height: 1.55; padding: 10px 0; }
+.package-perspective-grid article > p:last-child { margin-top: auto; }
+.package-example-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 18px; margin-top: 30px; }
+.package-example-grid .detail-box { min-width: 0; }
+.package-example-grid .feature-list { margin: 14px 0 0; }
+.package-example-grid .feature-list li { font-size: 14px; line-height: 1.5; }
+.package-process-list { margin-top: 28px; border-top: 1px solid var(--line); }
+.package-process-list article { padding: 22px 0; border-bottom: 1px solid var(--line); }
+.package-process-list article p { max-width: 82ch; margin: 10px 0 0; }
 .package-method-grid { margin-top: 30px; }
 .package-method-grid + p { margin-top: 28px; }
 .package-note { margin-top: 26px; color: var(--muted); font-size: 14px; }
@@ -572,6 +586,7 @@ footer { background: var(--navy); color: #faf9f6; }
   .brand-showcase img { width: min(100%,340px); }
   .package-two-column { grid-template-columns: 1fr; gap: 28px; }
   .package-stage-grid, .package-route-grid, .package-payment-grid { grid-template-columns: 1fr; }
+  .package-example-grid { grid-template-columns: 1fr; }
   .package-price-table { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .onboarding-progress { grid-template-columns: repeat(4,minmax(0,1fr)); margin: -24px -24px 34px; }
   .onboarding-progress button { padding: 12px 9px; }
@@ -809,3 +824,5 @@ footer { background: var(--navy); color: #faf9f6; }
 /* Accessibility: the light-gold accent is kept for fills, borders and text on navy; these restore it on dark sections
    where a shared rule above now uses the darker gold for light backgrounds. */
 .journey .journey-grid b, .journey-map .journey-grid b { color: var(--accent); }
+
+.upload-selected { display: block; margin-top: 6px; color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
